@@ -54,7 +54,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 ### 🌐 REDES SOCIALES
 <p align="center">
-<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://www.linkedin.com/in/diego-rangel-905b313b3?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
 </p>
 
 </div>
@@ -104,7 +104,7 @@ Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
 
 ### 🌐 SOCIAL MEDIA
 <p align="center">
-<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://www.linkedin.com/in/diego-rangel-905b313b3?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
 </p>
 
 ---
