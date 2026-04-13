@@ -17,7 +17,7 @@
 
 <div id="protocolo-espanol"></div>
 
-# 🛰️ BIENVENIDOS A MI PORTAFOLIO: [ESPAÑOL]
+# ₿ BIENVENIDOS A MI PORTAFOLIO: [ESPAÑOL]
 > **ESTADO:** OPERATIVO | **USUARIO:** Diego Fernando Rangel Calderón
 
 ---
@@ -67,7 +67,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 <div id="protocol-english"></div>
 
-# 🛰️ WELCOME TO MY PORTFOLIO: [ENGLISH]
+# ₿ WELCOME TO MY PORTFOLIO: [ENGLISH]
 > **STATUS:** OPERATIONAL | **USER:** Diego Fernando Rangel Calderón
 
 ---
