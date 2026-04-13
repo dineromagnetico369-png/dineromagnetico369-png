@@ -24,31 +24,38 @@
 
 ### 💳 APOYO AL PROYECTO & DONACIONES
 
-Si mi trabajo te ha servido y deseas contribuir, hay dos formas de mantener este sistema en línea:
-
 | **DONACIÓN DIRECTA (Criptomonedas)** | **APOYO CREATIVO (GRATIS)** |
 | :--- | :--- |
 | [<img src="https://img.shields.io/badge/ENVIAR_CRÉDITOS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">](https://airtm.me/TU_LINK) | Escucha nuestra música o compártela en tus historias para apoyar la causa. |
 
 #### 🎵 ¿CÓMO APOYAR SIN DINERO?
-Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestra canción de fondo en Facebook e Instagram en la seccion de historia y compártela, y en Spotify, escucha nuestra canción.
-<br> Busca la siguiente canción para apoyarnos (**Pri Pri - Diego Fernando Rangel Calderón**). <br>Para ver los pasos detallados, activa el siguiente comando:
+Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestra canción de fondo en Facebook e Instagram en la seccion de historia y compártela.
+<br> Busca: **Pri Pri - Diego Fernando Rangel Calderón**.
 
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog Opiniones Generales" height="100" width="200">
+  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog" height="100" width="200">
 </a>
 
+---
+
+### 🛠️ STACK TECNOLÓGICO (SKILLS)
+
+| HABILIDAD | NIVEL DE CARGA DEL SISTEMA |
+| :--- | :--- |
+| **DESARROLLO WEB** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%5D+85%25" /> |
+| **PHP / MYSQL** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+95%25" /> |
+| **MARKETING DIGITAL** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%5D+75%25" /> |
+
 <br>
-*(Haz clic arriba para abrir el tutorial)*
 
 ---
 
 ### 🌐 CONEXIÓN_RED (Dorado y Negro)
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-<a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
+
 </p>
 
 </div>
@@ -68,31 +75,38 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 ### 💳 PROJECT SUPPORT & DONATIONS
 
-If my work has been helpful and you wish to contribute, there are two ways to keep this system online:
-
-| **DIRECT DONATION (Cryptocurrencies)** | **CREATIVE SUPPORT (FREE)** |
+| **DIRECT DONATION (Crypto)** | **CREATIVE SUPPORT (FREE)** |
 | :--- | :--- |
 | [<img src="https://img.shields.io/badge/SEND_CREDITS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">](https://airtm.me/TU_LINK) | Listen to our music or share it in your stories to support the cause. |
 
 #### 🎵 HOW TO SUPPORT FOR FREE?
-To support us at no cost, find us on Spotify, Facebook, or Instagram. Add our song to your Facebook and Instagram stories, and on Spotify, simply listen to our track.
-<br> Search for the following song to support us (**Pri Pri - Diego Fernando Rangel Calderón**). <br>To see the detailed steps, activate the following command:
+Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
+<br> Search: **Pri Pri - Diego Fernando Rangel Calderón**.
 
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="General Opinions Blog" height="100" width="200">
+  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog" height="100" width="200">
 </a>
 
+---
+
+### 🛠️ TECHNOLOGICAL STACK (SKILLS)
+
+| SKILL | SYSTEM LOAD LEVEL |
+| :--- | :--- |
+| **WEB DEVELOPMENT** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%5D+85%25" /> |
+| **PHP / MYSQL** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+95%25" /> |
+| **DIGITAL MARKETING** | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=D4AF37&width=250&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%5D+75%25" /> |
+
 <br>
-*(Click above to open the tutorial)*
 
 ---
 
 ### 🌐 NETWORK_CONNECTION (Gold & Black)
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
+
 </p>
 
 ---
