@@ -26,7 +26,7 @@
 
 | **DONACIÓN DIRECTA (Criptomonedas)** | **APOYO CREATIVO (GRATIS)** |
 | :--- | :--- |
-| <a href="https://airtm.me/TU_LINK" target="_blank">[<img src="https://img.shields.io/badge/ENVIAR_CRÉDITOS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">]</a> | Escucha nuestra música o compártela en tus historias para apoyar la causa. |
+| <a href="https://airtm.me/diegorangelk">[<img src="https://img.shields.io/badge/ENVIAR_CRÉDITOS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">]</a> | Escucha nuestra música o compártela en tus historias para apoyar la causa. |
 
 #### 🎵 ¿CÓMO APOYAR SIN DINERO?
 Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestra canción de fondo en Facebook e Instagram en la seccion de historia y compártela.
@@ -34,7 +34,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 <br>
 
-<a href="https://ejemplo.org" target="_blank">
+<a href="https://ejemplo.org">
   <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog" height="100" width="200">
 </a>
 
@@ -54,7 +54,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 ### 🌐 REDES SOCIALES
 <p align="center">
-<a href="https://www.linkedin.com/in/diego-rangel-905b313b3?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://www.linkedin.com/in/diego-rangel-905b313b3?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
 </p>
 
 </div>
@@ -76,7 +76,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 | **DIRECT DONATION (Crypto)** | **CREATIVE SUPPORT (FREE)** |
 | :--- | :--- |
-| <a href="https://airtm.me/TU_LINK" target="_blank">[<img src="https://img.shields.io/badge/SEND_CREDITS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">]</a> | Listen to our music or share it in your stories to support the cause. |
+| <a href="https://airtm.me/diegorangelk">[<img src="https://img.shields.io/badge/SEND_CREDITS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">]</a> | Listen to our music or share it in your stories to support the cause. |
 
 #### 🎵 HOW TO SUPPORT FOR FREE?
 Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
