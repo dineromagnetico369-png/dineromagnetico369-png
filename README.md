@@ -2,17 +2,18 @@
 
 <p align="right">
   <a href="#protocolo-espanol">
-    <img src="https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png" alt="Español" width="120" height="60"/>
+    <img src="https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png" alt="Español DFRC" width="120" height="60"/>
   </a>
   <a href="#protocol-english">
-    <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English" width="120" height="60"/>
+    <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English DFRC" width="120" height="60"/>
   </a>
 </p>
-
-<img src="image_0.png" alt="Header Dorado Futurista" width="100%">
-
+</div>
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=DEVELOPER+ARCHITECT;DIGITAL+STRATEGIST;BUILDING+THE+GOLDEN+FUTURE...)](https://git.io/typing-svg)
+<img src="https://i.ibb.co/Vrnbd1r/logo-dfrc.png" alt="LOGO DFRC" height="200" width="300">
+</div>
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdzNXNndGF5cnd4ZzVlOTYwOWpxMHo1MnZxbHcya2Z3bzZ2bmQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="LOGO DFRC" height="200" width="300">
 </div>
 
 <br>
