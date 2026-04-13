@@ -55,7 +55,6 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 ### 🌐 CONEXIÓN_RED (Dorado y Negro)
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-
 </p>
 
 </div>
@@ -106,7 +105,6 @@ Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
 ### 🌐 NETWORK_CONNECTION (Gold & Black)
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-
 </p>
 
 ---
@@ -117,6 +115,6 @@ Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
 <br>
 
 ### ⚡ ACCESOS_AL_NÚCLEO
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTU_USUARIO&count_bg=%23D4AF37&title_bg=%23000000&icon=opsgenie.svg&icon_color=%23D4AF37&title=VISITAS_TOTALES&edge_flat=false" alt="Hits Counter"/>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=D4AF37&style=for-the-badge&label=VISITAS+AL+NUCLEO&labelColor=000000" alt="Contador de Visitas" />
 
 </div>
