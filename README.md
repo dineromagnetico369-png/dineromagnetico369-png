@@ -39,7 +39,7 @@ Si quieres apoyarnos sin coste, puedes buscarnos en tu plataforma favorita, pone
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="image_1.png" alt="Boton Tutorial Dorado" width="280">
+  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog Opiniones Generales" height="60" width="120">
 </a>
 
 <br>
@@ -82,7 +82,7 @@ If you want to support us at no cost, you can find us on your favorite platform,
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="image_1.png" alt="Golden Tutorial Button" width="280">
+  <img src="https://i.ibb.co/tTxxWYTb/boton-blog-general.png" alt="Blog Opiniones Generales" height="60" width="120">
 </a>
 
 <br>
