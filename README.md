@@ -2,55 +2,60 @@
 
 <p align="right">
   <a href="#protocolo-espanol">
-    <img src="https://img.shields.io/badge/---_VER_EN_ESPAÑOL_----00F2FF?style=for-the-badge&logo=opsgenie&logoColor=black" />
+    <img src="https://img.shields.io/badge/PROTOCOLO%20-%20ESPAÑOL%20-%20[VER_AQUÍ]-D4AF37?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Español"/>
   </a>
   <a href="#protocol-english">
-    <img src="https://img.shields.io/badge/---_VIEW_IN_ENGLISH_----555555?style=for-the-badge&logo=opsgenie&logoColor=white" />
+    <img src="https://img.shields.io/badge/PROTOCOL%20-%20ENGLISH%20-%20[VIEW_HERE]-101010?style=for-the-badge&logo=opsgenie&logoColor=D4AF37" alt="English"/>
   </a>
 </p>
 
-<img src="https://i.imgur.com/8N3f6Aq.png" alt="Header" width="100%">
+<img src="image_0.png" alt="Header Dorado Futurista" width="100%">
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=DEVELOPER+ARCHITECT;DIGITAL+STRATEGIST;BUILDING+THE+GOLDEN+FUTURE...)](https://git.io/typing-svg)
+</div>
 
 <br>
 
 <div id="protocolo-espanol"></div>
 
 # 🛰️ PROTOCOLO_SISTEMA: [ESPAÑOL]
-> **ESTADO:** NÚCLEO OPERATIVO | **USUARIO:** DFRC-PRO
+> **ESTADO:** NÚCLEO OPERATIVO | **USUARIO:** [TU_USUARIO]
 
 ---
 
 ### 💳 APOYO AL PROYECTO & DONACIONES
 
-Si mi trabajo te ha servido, hay dos formas de mantener este sistema en línea:
+Si mi trabajo te ha servido y deseas contribuir, hay dos formas de mantener este sistema en línea, ambas en nuestra paleta de color **Oro y Negro**:
 
-| **DONACIÓN DIRECTA** | **APOYO CREATIVO (GRATIS)** |
+| **DONACIÓN DIRECTA (Paypal)** | **APOYO CREATIVO (GRATIS)** |
 | :--- | :--- |
-| [<img src="https://img.shields.io/badge/ENVIAR_CRÉDITOS-0077B5?style=for-the-badge&logo=paypal&logoColor=white">](https://paypal.me/TU_LINK) | Escucha nuestra música o compártela en tus historias para apoyar la causa. |
+| [<img src="https://img.shields.io/badge/ENVIAR_CRÉDITOS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">](https://paypal.me/TU_LINK) | Escucha nuestra música o compártela en tus historias para apoyar la causa. |
 
 #### 🎵 ¿CÓMO APOYAR SIN DINERO?
-Puedes buscarnos en tu plataforma favorita, poner nuestra canción de fondo en una historia y compartirla. Para ver los pasos detallados, activa el siguiente comando:
+Si quieres apoyarnos sin coste, puedes buscarnos en tu plataforma favorita, poner nuestra canción de fondo en una historia y compartirla. Tu alcance nos ayuda a seguir creando. Para ver los pasos detallados, activa el siguiente comando:
 
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="https://i.imgur.com/vHqB5o3.png" alt="Boton Futurista" width="300">
+  <img src="image_1.png" alt="Boton Tutorial Dorado" width="280">
 </a>
 
 <br>
+*(Haz clic arriba para abrir el tutorial)*
 
 ---
 
-### 🌐 CONEXIÓN_RED
+### 🌐 CONEXIÓN_RED (Dorado y Negro)
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portafolio-00F2FF?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
+<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
 </p>
 
 </div>
 
 <br><br>
-<hr style="border: 2px solid #00F2FF;">
+<hr style="border: 2px solid #D4AF37;">
 <br><br>
 
 <div align="center">
@@ -58,35 +63,36 @@ Puedes buscarnos en tu plataforma favorita, poner nuestra canción de fondo en u
 <div id="protocol-english"></div>
 
 # 🛰️ SYSTEM_PROTOCOL: [ENGLISH]
-> **STATUS:** CORE OPERATIONAL | **USER:** DFRC-PRO
+> **STATUS:** CORE OPERATIONAL | **USER:** [TU_USUARIO]
 
 ---
 
 ### 💳 PROJECT SUPPORT & DONATIONS
 
-If my work has been helpful, there are two ways to keep this system online:
+If my work has been helpful and you wish to contribute, there are two ways to keep this system online, both matching our **Gold & Black** palette:
 
-| **DIRECT DONATION** | **CREATIVE SUPPORT (FREE)** |
+| **DIRECT DONATION (Paypal)** | **CREATIVE SUPPORT (FREE)** |
 | :--- | :--- |
-| [<img src="https://img.shields.io/badge/SEND_CREDITS-0077B5?style=for-the-badge&logo=paypal&logoColor=white">](https://paypal.me/TU_LINK) | Listen to our music or share it in your stories to support the cause. |
+| [<img src="https://img.shields.io/badge/SEND_CREDITS-D4AF37?style=for-the-badge&logo=paypal&logoColor=black">](https://paypal.me/TU_LINK) | Listen to our music or share it in your stories to support the cause. |
 
 #### 🎵 HOW TO SUPPORT FOR FREE?
-You can find us on your favorite platform, put our song in the background of a story and share it. To see the detailed steps, activate the following command:
+If you want to support us at no cost, you can find us on your favorite platform, put our song in the background of a story, and share it. Your reach helps us keep creating. To see the detailed steps, activate the following command:
 
 <br>
 
 <a href="https://ejemplo.org">
-  <img src="https://i.imgur.com/vHqB5o3.png" alt="Futuristic Button" width="300">
+  <img src="image_1.png" alt="Golden Tutorial Button" width="280">
 </a>
 
 <br>
+*(Click above to open the tutorial)*
 
 ---
 
-### 🌐 NETWORK_CONNECTION
+### 🌐 NETWORK_CONNECTION (Gold & Black)
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
+<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=black"></a>
 </p>
 
 ---
