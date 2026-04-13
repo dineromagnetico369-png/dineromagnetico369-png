@@ -2,10 +2,10 @@
 
 <p align="right">
   <a href="#protocolo-espanol">
-    <img src="https://img.shields.io/badge/PROTOCOLO%20-%20ESPAÑOL%20-%20[VER_AQUÍ]-D4AF37?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Español"/>
+    <img src="[https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png](https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png)" alt="Español"/>
   </a>
   <a href="#protocol-english">
-    <img src="https://img.shields.io/badge/PROTOCOL%20-%20ENGLISH%20-%20[VIEW_HERE]-101010?style=for-the-badge&logo=opsgenie&logoColor=D4AF37" alt="English"/>
+    <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English"/>
   </a>
 </p>
 
