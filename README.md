@@ -2,10 +2,10 @@
 
 <p align="right">
   <a href="#protocolo-espanol">
-    <img src="https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png" alt="Español"/>
+    <img src="https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png" alt="Español" width="120" height="60"/>
   </a>
   <a href="#protocol-english">
-    <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English"/>
+    <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English" width="120" height="60"/>
   </a>
 </p>
 
@@ -98,6 +98,6 @@ If you want to support us at no cost, you can find us on your favorite platform,
 ---
 
 ### 📊 SYSTEM_ANALYTICS
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=000000"/>
 
 </div>
