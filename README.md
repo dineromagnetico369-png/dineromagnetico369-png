@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="#protocolo-espanol">
-    <img src="[https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png](https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png)" alt="Español"/>
+    <img src="https://i.ibb.co/CprB2rZw/Espa-ol-boton-github.png" alt="Español"/>
   </a>
   <a href="#protocol-english">
     <img src="https://i.ibb.co/zW7sxtTj/Boton-github-ingles.png" alt="English"/>
