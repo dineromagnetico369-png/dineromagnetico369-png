@@ -52,7 +52,7 @@ Para apoyarnos sin coste, búscanos en Spotify, Facebook o Instagram, pon nuestr
 
 ---
 
-### 🌐 CONEXIÓN_RED (Dorado y Negro)
+### 🌐 REDES SOCIALES
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
 </p>
@@ -102,7 +102,7 @@ Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
 
 ---
 
-### 🌐 NETWORK_CONNECTION (Gold & Black)
+### 🌐 SOCIAL MEDIA
 <p align="center">
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
 </p>
