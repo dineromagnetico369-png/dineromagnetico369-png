@@ -108,13 +108,4 @@ Find us on Spotify, Facebook, or Instagram. Add our song to your stories.
 </p>
 
 ---
-
-### 📊 SYSTEM_ANALYTICS
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=000000"/>
-
-<br>
-
-### ⚡ ACCESOS_AL_NÚCLEO
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=D4AF37&style=for-the-badge&label=VISITAS+AL+NUCLEO&labelColor=000000" alt="Contador de Visitas" />
-
 </div>
